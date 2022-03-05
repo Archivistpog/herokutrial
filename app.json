@@ -1,11 +1,10 @@
 {
-	"name": "CloneBot",
-	"description": "CloneBot",
+	"name": "trial",
+	"description": "trial",
 	"repository": "https://github.com/MsGsuite/CloneBot",
-	"keywords": ["Gclone","TG"],
-	"repository": "https://github.com/MsGsuite/CloneBot",
-        "website": "https://t.me/msgsuitechat",
-        "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
+	"keywords": ["trial"],
+	"repository": "https://github.com/Archivistpog/herokutrial",
+        "website": "www.google.com"
 	"env": {
 		"telegram_token": {
 			"description": "Get from Telegram @Botfather."
